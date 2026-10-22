@@ -7,3 +7,13 @@
 *.log
 out.dat
 workspace/
+# Vitis HLS generated files
+**/cordic.prj/
+**/cordic*.prj/
+**/.autopilot/
+**/.Xil/
+**/solution*/impl/
+**/solution*/sim/
+**/solution*/syn/
+**/core
+**/core.*
